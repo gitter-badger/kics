@@ -1,0 +1,7 @@
+[
+	{
+		"queryName": "NPM Install Command Without Pinned Version",
+		"severity": "MEDIUM",
+		"line": 2
+	}
+]
